@@ -1,6 +1,8 @@
 # Super Transball 2
 
-[IMAGE]
+<p align="center">
+  <img src="https://raw.githubusercontent.com/santiontanon/stransball2/master/graphics/tittle.jpg" width="350" title="title">
+</p>
 
 Super Transbal 2 is the sequel of Transball and Transball 2, inspired by the classic Thrust-style games (and concretely 
 by Zara Thrusta for the Commodore Amiga). Super Transball 2 was created between 2002 and 2005 by myself, and this repo is just to make sure the original source code is preserved.
@@ -10,7 +12,9 @@ In each level of Transball, the goal is to find the sphere, capture it and carry
 
 You can choose between three types of ships for acomplishing your goal:
 
-[IMAGE]
+<p align="center">
+  <img src="https://raw.githubusercontent.com/santiontanon/stransball2/master/graphics/selection.jpg" width="350" title="ship selection">
+</p>
 
 Each one of the ships has its own characteristics:
 - The SHADOW RUNNER is an extremely fast ship, and has "retro thrusters", that can often safe your life. The problem with this ship is that its weapons have nearly no destruction power, and thus, many shots are needed to kill each enemy (4 shots for a standard canon).
@@ -23,7 +27,11 @@ For beginners, I recomend to use V-PANTHER 2 or the X-TERMINATOR. And when you r
 
 Once you have chosen your ship, you are ready to play. Here you have some screenshots of the game:
 
-[IMAGES]
+<p align="center">
+  <img src="https://raw.githubusercontent.com/santiontanon/stransball2/master/graphics/shot2.jpg" width="350" title="screenshot">
+  <img src="https://raw.githubusercontent.com/santiontanon/stransball2/master/graphics/shot3.jpg" width="350" title="screenshot">
+  <img src="https://raw.githubusercontent.com/santiontanon/stransball2/master/graphics/shot5.jpg" width="350" title="screenshot">
+</p>
 
 Transball is not an easy game, so to pass the 15th level (the last one), you will need lots of practice!
 
