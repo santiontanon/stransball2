@@ -35,7 +35,6 @@ Once you have chosen your ship, you are ready to play. Here you have some screen
 
 Transball is not an easy game, so to pass the 15th level (the last one), you will need lots of practice!
 
-Another feature of Super Transball 2, is that you can save replays. Once your ship is destroyed, or you have ended the game, you can go to the REPLAYS section, where you will see the replays of all your attempts (with names: AUTOREPLAY???.RPL). You can see them, and rename all the replays you want to save. All the replays not renamed, will be automatically deleted when you play again. The game comes with four REPLAYS saved by me (DEMO1.RPL,...,DEMO4.RPL), if you think you can play better than me, just send me your replay files and we will see.... ;)
-During the gameplay, the time spent to solve a level is not displayed (just not to get you nervious), but you can consult it on the replay. So, you can make time competitions against your friends, or against me... if you dare... ;)
+Another feature of Super Transball 2, is that you can save replays. Once your ship is destroyed, or you have ended the game, you can go to the REPLAYS section, where you will see the replays of all your attempts (with names: AUTOREPLAY???.RPL). You can see them, and rename all the replays you want to save. All the replays not renamed, will be automatically deleted when you play again. The game comes with four REPLAYS saved by me (DEMO1.RPL,...,DEMO4.RPL). During the gameplay, the time spent to solve a level is not displayed (just not to get you nervious), but you can check it out on the replay.
 
 
